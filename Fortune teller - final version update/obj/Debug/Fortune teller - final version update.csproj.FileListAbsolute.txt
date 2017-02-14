@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller - final version update\Fortune teller - final version update\bin\Debug\Fortune teller - final version update.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller - final version update\Fortune teller - final version update\bin\Debug\Fortune teller - final version update.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller - final version update\Fortune teller - final version update\bin\Debug\Fortune teller - final version update.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller - final version update\Fortune teller - final version update\obj\Debug\Fortune teller - final version update.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller - final version update\Fortune teller - final version update\obj\Debug\Fortune teller - final version update.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Fortune teller - final version update\Fortune teller - final version update\obj\Debug\Fortune teller - final version update.pdb
